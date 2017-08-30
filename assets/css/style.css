@@ -1,0 +1,33 @@
+
+body {
+	background-image: url("../images/concrete_seamless.png");
+}
+
+.jumbotron {
+	font-family: 'Anton', sans-serif;
+	background-image: url("../images/train_station2.jpg");
+	background-size: cover;
+	color: white;
+	text-shadow: 3px 3px black;
+	
+}
+
+.panel-primary > .panel-heading {
+	background-color: #1a19de;
+}
+
+.panel {
+	border-color: #1a19de;
+}
+
+.form-group {
+	margin: 20px;
+}
+
+#add-train-btn {
+	margin-left: 20px;
+	margin-bottom: 20px;
+	border-color: #1a19de;
+	background-color: #1a19de;
+
+}
