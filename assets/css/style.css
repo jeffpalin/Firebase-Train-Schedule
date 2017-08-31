@@ -9,7 +9,6 @@ body {
 	background-size: cover;
 	color: white;
 	text-shadow: 3px 3px black;
-	
 }
 
 .panel-primary > .panel-heading {
@@ -29,5 +28,4 @@ body {
 	margin-bottom: 20px;
 	border-color: #1a19de;
 	background-color: #1a19de;
-
 }
